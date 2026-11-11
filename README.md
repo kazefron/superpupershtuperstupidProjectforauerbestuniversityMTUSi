@@ -1,8 +1,14 @@
-# CSV Statistics API
+# superpupershtuperstupidProjectforauerbestuniversityMTUSi
+
+Самое главное чтоб попа подтерта была
+
+## CSV Statistics API
 
 Простой API принимает CSV-файл и возвращает количество строк и названия столбцов.
 
-## Установка и запуск в PowerShell
+### Установка и запуск в PowerShell
+
+Из корневой папки репозитория `VVIT` выполните:
 
 ```powershell
 cd .\Proect
@@ -20,13 +26,14 @@ python -m uvicorn main:app --reload
 - `GET /health` проверяет, что сервер запущен.
 - `POST /analyze` принимает CSV в UTF-8 и возвращает число строк и список столбцов.
 
-## Совместная работа через GitHub
+### Совместная работа через GitHub
 
-Проект хранится в отдельном Git-репозитории в папке `Proect`. После создания пустого GitHub-репозитория выполните команды из этой папки:
+Git-репозиторий проекта: https://github.com/kazefron/superpupershtuperstupidProjectforauerbestuniversityMTUSi
+
+Отправьте изменения командой:
 
 ```powershell
-git remote add origin https://github.com/<владелец>/<репозиторий>.git
 git push -u origin main
 ```
 
-Замените адрес на URL своего репозитория. Добавьте соавтора через **Settings → Collaborators** на GitHub. Для совместной работы создавайте отдельные ветки и отправляйте изменения через Pull Request.
+Чтобы пригласить соавтора, откройте **Settings → Collaborators** на GitHub и добавьте его username. Для совместной работы создавайте отдельные ветки и отправляйте изменения через Pull Request.
