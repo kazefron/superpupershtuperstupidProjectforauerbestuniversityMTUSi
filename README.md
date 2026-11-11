@@ -1,0 +1,2 @@
+# superpupershtuperstupidProjectforauerbestuniversityMTUSi
+Самое главное чтоб попа подтерта была
